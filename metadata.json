@@ -1,5 +1,6 @@
 {
     "name": "AZKR Community Token",
     "symbol": "AZKC",
-    "image": "https://raw.githubusercontent.com/aragonzkresearch/azkc/main/azkr.png"
+    "website": "https://azkr.org",
+    "image": "https://raw.githubusercontent.com/aragonzkresearch/azkc/main/azkr.png",
 }
