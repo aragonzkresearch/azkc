@@ -2,5 +2,10 @@
     "name": "AZKR Community Token",
     "symbol": "AZKC",
     "website": "https://azkr.org",
+    "github": "https://github.com/aragonzkresearch",
     "image": "https://raw.githubusercontent.com/aragonzkresearch/azkc/main/azkr.png",
+    "social": {
+        "twitter": "https://x.com/azkr_org",
+        "linkedin": "https://www.linkedin.com/company/azkr"
+    }
 }
